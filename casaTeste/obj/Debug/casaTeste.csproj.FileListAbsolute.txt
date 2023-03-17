@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\casaTeste\bin\Debug\casaTeste.exe.config
+C:\Users\usuario\source\repos\casaTeste\bin\Debug\casaTeste.exe
+C:\Users\usuario\source\repos\casaTeste\bin\Debug\casaTeste.pdb
+C:\Users\usuario\source\repos\casaTeste\obj\Debug\casaTeste.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\casaTeste\obj\Debug\casaTeste.exe
+C:\Users\usuario\source\repos\casaTeste\obj\Debug\casaTeste.pdb
